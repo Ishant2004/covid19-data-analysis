@@ -3,7 +3,7 @@
 Data collection of daily rising coronavirus cases and interpreting the dataset. Data analysis will be performed and creating visually impactful dashboards in Tableau and generating reports on a daily, weekly and monthly basis. COVID19 dataset is imported from Our World in Data.
 
 ## TABLEAU PROFILE LINK:
-
+https://public.tableau.com/shared/G6ZNCMGNY?:display_count=n&:origin=viz_share_link
 
 ## DATASET: 
 In this project, I have taken dataset from COVID-19 dataset which is a collection of the COVID-19 data maintained by Our World in Data. This is an updated sheet on daily basis which covers number of confirmed cases, deaths, hospitalizations, testing, etc. I have used dataset comprising of worldwide number of confirmed cases and deaths which is from the European Centre for Disease Prevention and Control (ECDC).
